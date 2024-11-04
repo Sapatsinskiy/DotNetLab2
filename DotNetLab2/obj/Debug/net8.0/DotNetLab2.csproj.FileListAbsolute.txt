@@ -1,0 +1,14 @@
+C:\Users\Sapat\source\repos\DotNetLab2\bin\Debug\net8.0\DotNetLab2.exe
+C:\Users\Sapat\source\repos\DotNetLab2\bin\Debug\net8.0\DotNetLab2.deps.json
+C:\Users\Sapat\source\repos\DotNetLab2\bin\Debug\net8.0\DotNetLab2.runtimeconfig.json
+C:\Users\Sapat\source\repos\DotNetLab2\bin\Debug\net8.0\DotNetLab2.dll
+C:\Users\Sapat\source\repos\DotNetLab2\bin\Debug\net8.0\DotNetLab2.pdb
+C:\Users\Sapat\source\repos\DotNetLab2\obj\Debug\net8.0\DotNetLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sapat\source\repos\DotNetLab2\obj\Debug\net8.0\DotNetLab2.AssemblyInfoInputs.cache
+C:\Users\Sapat\source\repos\DotNetLab2\obj\Debug\net8.0\DotNetLab2.AssemblyInfo.cs
+C:\Users\Sapat\source\repos\DotNetLab2\obj\Debug\net8.0\DotNetLab2.csproj.CoreCompileInputs.cache
+C:\Users\Sapat\source\repos\DotNetLab2\obj\Debug\net8.0\DotNetLab2.dll
+C:\Users\Sapat\source\repos\DotNetLab2\obj\Debug\net8.0\refint\DotNetLab2.dll
+C:\Users\Sapat\source\repos\DotNetLab2\obj\Debug\net8.0\DotNetLab2.pdb
+C:\Users\Sapat\source\repos\DotNetLab2\obj\Debug\net8.0\DotNetLab2.genruntimeconfig.cache
+C:\Users\Sapat\source\repos\DotNetLab2\obj\Debug\net8.0\ref\DotNetLab2.dll
